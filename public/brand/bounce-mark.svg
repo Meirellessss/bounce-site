@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Bounce">
+  <defs>
+    <radialGradient id="b" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#e7ff8f"/>
+      <stop offset="60%" stop-color="#b3f537"/>
+      <stop offset="100%" stop-color="#5f8f0e"/>
+    </radialGradient>
+  </defs>
+  <path d="M 12 62 Q 30 30 55 58" stroke="#c8ff4d" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M 58 55 Q 68 45 78 34" stroke="#c8ff4d" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <circle cx="82" cy="30" r="10" fill="url(#b)"/>
+</svg>

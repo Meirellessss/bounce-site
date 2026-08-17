@@ -1,0 +1,18 @@
+# dependências
+node_modules
+
+# build / cache
+.next
+out
+
+# ambiente (NUNCA commitar segredos)
+.env
+.env*
+!.env*.example
+
+# vercel
+.vercel
+
+# logs / sistema
+*.log
+.DS_Store
